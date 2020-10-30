@@ -444,9 +444,9 @@
                         </div>
                         <hr>
                         <div>
-                            <h5 class="mx-1 my-3"><b>No of Appointments for today : <span
-                                        class="text-primary">101</span></b></h5>
-                            <h5 class="mx-1 my-3"><b>No of Patients : <span class="text-primary">105</span></b></h5>
+                            <h5 class="mx-1 my-3"><b>No of Customers : <span class="text-primary">101</span></b></h5>
+                            <h5 class="mx-1 my-3"><b>No of Prescriptions : <span class="text-primary">105</span></b>
+                            </h5>
                         </div>
 
                         <hr>
